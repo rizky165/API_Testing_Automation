@@ -1,10 +1,9 @@
-API AUTOMATION IN JAVA
+**API AUTOMATION IN JAVA**
 - - - - 
 
 This project started as a project for Mini Bootcamp Digital Skola. <br />
-Test Case : <br />
-https://docs.google.com/spreadsheets/d/1kTL9RarZKFE6DpHUlrAGrzbJ32teg6a3FcGQFVqn-IY/edit?usp=sharing
-
+![Test Case](https://docs.google.com/spreadsheets/d/1kTL9RarZKFE6DpHUlrAGrzbJ32teg6a3FcGQFVqn-IY/edit?usp=sharing) 
+<br />
 Created an API automation script based on the previous API Testing task.
 1. There must be 1 get, 1 post, 1 delete.
 2. Upload the code to your git repository (set to public).
