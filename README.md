@@ -1,2 +1,2 @@
-API TESTING AUTOMATION IN JAVA
+API AUTOMATION IN JAVA
 -----------------------------
