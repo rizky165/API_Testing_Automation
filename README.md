@@ -16,4 +16,4 @@ Requirement
 Run command :
 
     - mvn test -Dtest=${nameclassjava} 
-    Example mvn test -DTest=RunSingle
+    Example mvn test -DTest=Runner
