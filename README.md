@@ -1,4 +1,4 @@
 API AUTOMATION IN JAVA
 -----------------------------
 
-adada.bashprofile
+adada.bash_profile
