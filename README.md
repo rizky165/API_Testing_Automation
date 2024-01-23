@@ -10,9 +10,7 @@ Requirement
 * JSON PathFinder (https://jsonpathfinder.com/)
 * Karate : Documentaion Karate (https://github.com/karatelabs/karate)
 ----------
-****
 
-Markup : 
  
 ## For Running Test In Console ##
 Run command :
